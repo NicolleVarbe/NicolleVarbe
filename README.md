@@ -1,4 +1,4 @@
-# Nicolle's Business Analyst Portfolio
+# Business Analyst Portfolio
 
 Welcome! This portfolio showcases my work as a Business Analyst, including requirements documentation, data analysis, stakeholder communication tools, and more.
 
