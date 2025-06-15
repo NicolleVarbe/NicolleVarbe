@@ -1,24 +1,19 @@
-# Business Analyst Portfolio
+# Nicolle Vargas – Portfolio
 
-Welcome! This portfolio showcases my work as a Business Analyst, including requirements documentation, data analysis, stakeholder communication tools, and more.
+Hi! I'm Nicolle, a recent Master of Business Information Systems graduate with a passion for data, design, and business analysis.
 
-## 📌 Projects
+This repository showcases my personal projects and learning journey across:
+- 📊 Power BI dashboards
+- 🎨 UI/UX design in Figma
+- 🧮 SQL & Data Analysis
+- 📱 Mobile app UX requirements
 
-### 1. Loyalty & Rewards App
-- Business Requirements Document (BRD)
-- Functional Specs
-- Diagrams (Use Case, ERD)
-- User Stories
-- Tools: Figma, Draw.io, Excel
+---
 
-### 2. E-Commerce Sales Analysis
-- Data cleaning (Python)
-- Power BI dashboard
-- Business insights report
+## 🔹 Projects
 
-### 3. Stakeholder Communication
-- Stakeholder Analysis Matrix
-- Meeting minutes
-- RACI Chart
+### [Power BI Sales Dashboard](./powerbi-sales-dashboard)
+A clean and interactive sales report created using Power BI, focused on custom visuals and professional presentation.
 
-Feel free to explore each folder for detailed files and visuals.
+---
+More coming soon!
